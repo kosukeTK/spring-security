@@ -18,4 +18,8 @@ public class Student {
     public String getStudentName() {
         return studentName;
     }
+    
+    public String unti() {
+    	return "unti!";
+    }
 }
